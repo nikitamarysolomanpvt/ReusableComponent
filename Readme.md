@@ -2,7 +2,7 @@
 
 Demo for creating reusable components in android application. These components should be similar to `TextView` or `Button` and should be easy enough just like any other view.
 
-## Process of creating any `CustomCompoundView`
+## Process of creating any CustomCompoundView
 1. Create an XML which will contain the UI for customComponent. Check `component_audio` for sample.
 2. Create a class which extends the rootViewGroup present in the above XML. Check `AudioComponent` for sample.
 3. You can either now use this component directly in XML or you can control that from Java. Adding this to XML is easy and therefore this sample code contains example with JAVA code only.
