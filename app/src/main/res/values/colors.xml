@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#E4F2F1</color>
+
+    <color name="blue">#2D4A9D</color>
+
+    <color name="audioComponentBackground">@color/blue</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="contentCardBackground">#D1E9EF</color>
+    <color name="contentCardBorder">#B0C6E7</color>
+    <color name="contentCardSelection">#F3D13F</color>
+</resources>
