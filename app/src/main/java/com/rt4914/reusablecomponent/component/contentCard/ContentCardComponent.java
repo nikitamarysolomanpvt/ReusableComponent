@@ -27,15 +27,15 @@ public class ContentCardComponent extends LinearLayout {
         initView(context);
     }
 
-    public ContentCardComponent(Context context, @Nullable AttributeSet attrs) {
-        super(context, attrs);
-        initView(context);
-    }
-
-    public ContentCardComponent(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {
-        super(context, attrs, defStyleAttr);
-        initView(context);
-    }
+//    public ContentCardComponent(Context context, @Nullable AttributeSet attrs) {
+//        super(context, attrs);
+//        initView(context);
+//    }
+//
+//    public ContentCardComponent(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {
+//        super(context, attrs, defStyleAttr);
+//        initView(context);
+//    }
 
     private void initView(Context context) {
         layoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
